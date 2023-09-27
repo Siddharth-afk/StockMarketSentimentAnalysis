@@ -5,3 +5,5 @@ Technologies used: React, Python, HTML, CSS, Flask, Tailwind, Javascript, RestAP
 Conclusion: While the project showed some correlation based on user sentiment, it could not be the only factor in determining how the stock would perform. More sources would be need to give a very accurate prediction for the stock. 
 
 Learning: This project allowed me to explore the world of Sentiment analysis and how important it is to businesses. This project also allowed me to learn about RESTAPI (how to establish a connection between API endpoints.) and React, which was used to make the frontend of our project.
+
+
