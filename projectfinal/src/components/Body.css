@@ -1,0 +1,11 @@
+.search-bar-container{
+    padding-top: 5vh;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 200px;
+    max-height: 300px;
+}
